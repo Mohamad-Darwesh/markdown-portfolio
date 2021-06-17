@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+GitHub is the industry-standard tool for collaborating on and sharing code. It’s popular among software
